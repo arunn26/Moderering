@@ -1,28 +1,24 @@
-# Actodo React App
-
-## Overview
-Actodo is a simple task management application built using React and Tailwind CSS. Users can sign up, log in, and manage their daily activities efficiently.
-
-## Live Demo
-Check out the live version of the app here: [Actodo Live](https://actodo-react-ruby.vercel.app/)
+# Moderering-Todo
 
 
-## Technologies Used
-- React.js
-- Tailwind CSS
-- React Router
-
-## Features
-- User authentication (Signup & Login)
-- Task management (Add & Delete tasks)
-- Responsive UI built with Tailwind CSS
-- React Router for navigation
 
 
-## Usage
-1. Sign up for a new account.
-2. Log in with your credentials.
-   - **Username:** abc
-   - **Password:** 123
-3. Add activities to your task list.
-4. Delete tasks when completed.
+## Setup Instructions
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js (version 14 or later)
+- npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:arunn26/Moderering.git
+
+2. cd Moderering
+3. npm install
+4. npm start
+
